@@ -1,0 +1,11 @@
+Comments
+You had good, descriptive comments throughout that gave a sense of both the what and the why of your project.
+
+Code Quality
+The code is clear and easy to follow. There are some missed opportunities for encapsulation, so the code isn't quite as DRY as it could be, but overall, it's clear code.
+
+Ambition
+You picked a really apt subject for this project, and I think you gathered some really good data for it. Your README was thoughtful and gave a good sense of what the project was about, its potential scope and influences.
+
+Aesthetics
+The initial questions still don't make sense to me as they relate to the rest of the program. I'm not totally sure the tweets represent what you want them to either, since I'm often embarrassingly aware of the fact that my tweets are public. The staristics, however, were very effective.
